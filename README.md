@@ -5,42 +5,42 @@
 
 <p align="center"><img src="https://i.ibb.co/rGQK71g/personal-security-checklist-6.png" /></p>
 
-*<p align="center">A curated checklist of tips to protect your digital security and privacy</p>*
+*<p align="center">Dijital güvenliğinizi ve gizliliğinizi korumak için ipuçlarından oluşan bir kontrol listesi</p>*
 
 ### Contents
 
-[<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Authentication](#authentication)<br>
-[<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Browsing the Web](#web-browsing)<br>
+[<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Kimlik Doğrulama](#authentication)<br>
+[<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Web'de Gezinme](#web-browsing)<br>
 [<img src="https://i.ibb.co/7NrXW3L/5-email-36x36.png" width="28" height="28" /> Email](#emails)<br>
-[<img src="https://i.ibb.co/DrWJBT9/13-messaging-36x36.png" width="28" height="28" /> Secure Messaging](#secure-messaging)<br>
-[<img src="https://i.ibb.co/GFYyXMd/6-social-media-36x36.png" width="28" height="28" /> Social Media](#social-media)<br>
-[<img src="https://i.ibb.co/0VTZQpH/3-networking-36x36.png" width="28" height="28" /> Networks](#networking)<br>
-[<img src="https://i.ibb.co/F3WwqsV/7-phones-36x36.png" width="28" height="28" /> Mobile Phones](#mobile-devices)<br>
-[<img src="https://i.ibb.co/ZftcgJq/8-computers-36x36.png" width="28" height="28" /> Personal Computers](#personal-computers)<br>
-[<img src="https://i.ibb.co/b2S9372/9-smart-home-36x36.png" width="28" height="28" /> Smart Home](#smart-home)<br>
-[<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Personal Finance](#personal-finance)<br>
-[<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> Human Aspect](#sensible-computing)<br>
-[<img src="https://i.ibb.co/9NbhBww/11-physical-36x36.png" width="28" height="28" /> Physical Security](#physical-security)<br>
+[<img src="https://i.ibb.co/DrWJBT9/13-messaging-36x36.png" width="28" height="28" /> Güvenli Mesajlaşma](#secure-messaging)<br>
+[<img src="https://i.ibb.co/GFYyXMd/6-social-media-36x36.png" width="28" height="28" /> Sosyal Medya](#social-media)<br>
+[<img src="https://i.ibb.co/0VTZQpH/3-networking-36x36.png" width="28" height="28" /> Ağlar](#networking)<br>
+[<img src="https://i.ibb.co/F3WwqsV/7-phones-36x36.png" width="28" height="28" /> Cep Telefonları](#mobile-devices)<br>
+[<img src="https://i.ibb.co/ZftcgJq/8-computers-36x36.png" width="28" height="28" /> Kişisel Bilgisayarlar](#personal-computers)<br>
+[<img src="https://i.ibb.co/b2S9372/9-smart-home-36x36.png" width="28" height="28" /> Akıllı Ev](#smart-home)<br>
+[<img src="https://i.ibb.co/4JTqL5y/12-finance-36x36.png" width="28" height="28" /> Kişisel Finans](#personal-finance)<br>
+[<img src="https://i.ibb.co/KVPV1Lk/10-human-36x36.png" width="28" height="28" /> İnsani Yönü](#sensible-computing)<br>
+[<img src="https://i.ibb.co/9NbhBww/11-physical-36x36.png" width="28" height="28" /> Fiziksel Güvenlik](#physical-security)<br>
 
-**Too long? 🦒** See the [TLDR version](/2_TLDR_Short_List.md) instead.
+**Çok mu uzun? 🦒** [TLDR versiyonuna] bakın(/2_TLDR_Short_List.md) instead.
 
-### See Also
-- [Why Privacy & Security Matters](/0_Why_It_Matters.md)
-- [Privacy-Respecting Software](/5_Privacy_Respecting_Software.md)
-- [Privacy & Security Gadgets](/6_Privacy_and-Security_Gadgets.md)
-- [Further Links + More Awesome Stuff](/4_Privacy_And_Security_Links.md)
+### Ayrıca Bakınız
+- [Gizlilik ve Güvenlik Neden Önemlidir?](/0_Why_It_Matters.md)
+- [Gizliliğe Saygı Gösteren Yazılım](/5_Privacy_Respecting_Software.md)
+- [Gizlilik ve Güvenlik Aletleri](/6_Privacy_and-Security_Gadgets.md)
+- [Diğer Bağlantılar + Daha Harika Şeyler](/4_Privacy_And_Security_Links.md)
 
 ----
 
-## Authentication
+## Doğrulama
 
-Most reported data breaches are caused by the use of weak, default or stolen passwords (according to [this Verizon report](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
+Rapor edilen veri ihlallerinin çoğu zayıf, varsayılan veya çalınmış parolaların kullanılmasından kaynaklanmaktadır (Verizon raporu kaynak alınmıştır.) (http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
 
-Use long, strong and unique passwords, manage them in a secure password manager, enable 2-factor authentication, keep on top of breaches and take care while logging into your accounts.
+Uzun, güçlü ve benzersiz parolalar kullanın, bunları güvenli bir parola yöneticisinde yönetin, 2 faktörlü kimlik doğrulamayı etkinleştirin, ihlalleri takip edin ve hesaplarınıza giriş yaparken dikkatli olun.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Ayrıntılar ve İpuçları**
 --- | --- | ---
-**Use a Strong Password** | Recommended | If your password is too short, or contains dictionary words, places or names- then it can be easily cracked through brute force, or guessed by someone. The easiest way to make a strong password, is by making it long (12+ characters)- consider using a 'passphrase', made up of many words. Alternatively, use a password generator to create a long, strong random password. Have a play with [HowSecureIsMyPassword.net](https://howsecureismypassword.net), to gen an idea of how quickly common passwords can be cracked. Read more about creating strong passwords: [securityinabox.org](https://securityinabox.org/en/guide/passwords)
+**Güçlü Bir Parola Kullanın** | Önerilir. | If your password is too short, or contains dictionary words, places or names- then it can be easily cracked through brute force, or guessed by someone. The easiest way to make a strong password, is by making it long (12+ characters)- consider using a 'passphrase', made up of many words. Alternatively, use a password generator to create a long, strong random password. Have a play with [HowSecureIsMyPassword.net](https://howsecureismypassword.net), to gen an idea of how quickly common passwords can be cracked. Read more about creating strong passwords: [securityinabox.org](https://securityinabox.org/en/guide/passwords)
 **Don't reuse Passwords** | Recommended | If someone was to reuse a password, and one site they had an account with suffered a leak (data breaches occur aprox. every [39 seconds](https://eng.umd.edu/news/story/study-hackers-attack-every-39-seconds)), then a criminal could easily gain unauthorized access to their other accounts. This is usually done through large-scale automated login requests, and it is called Credential Stuffing. Unfortunately this is all too common, but it's simple to protect against- use a different password for each of your online accounts
 **Use a Secure Password Manager** | Recommended | For most people it is going to be near-impossible to remember hundreds of strong and unique passwords. A password manager is an application that generates, stores and auto-fills your login credentials for you. All your passwords will be encrypted against 1 master passwords (which you must remember, and it should be very strong). Most password managers have browser extensions and mobile apps, so whatever device you are on, your passwords can be auto-filled. A good all-rounder is [BitWarden](https://bitwarden.com), or see [Recommended Password Managers](/5_Privacy_Respecting_Software.md#password-managers)
 **Enable 2-Factor Authentication** | Recommended | 2FA is where you must provide both something you know (a password) and something you have (such as a code on your phone) to log in. This means that if anyone has got your password (e.g. through phishing, malware or a data breach), they will no be able to log into your account. It's easy to get started, download [an authenticator app](/5_Privacy_Respecting_Software.md#2-factor-authentication) onto your phone, and then go to your account security settings and follow the steps to enable 2FA. Next time you log in on a new device, you will be prompted for the code that displays in the app on your phone (it works without internet, and the code usually changes every 30-seconds)
